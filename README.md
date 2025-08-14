@@ -14,7 +14,7 @@ Not a full project — just me experimenting and learning.
 ---
 
 ## 📷 Demo Screenshot
-![Demo Preview](screenshot.png)  
+![Demo Preview](frontend-playground-1.png)  
 *(Add your screenshot if you want)*
 
 ---
