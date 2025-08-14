@@ -8,14 +8,13 @@ Not a full project — just me experimenting and learning.
 
 ## 🛠 Tech Used
 - HTML
-- CSS (with variables & responsive tweaks)
-- Vanilla JavaScript (scroll detection)
-
+- CSS 
+- Vanilla JavaScript 
 ---
 
 ## 📷 Demo Screenshot
 ![Demo Preview](frontend-playground-1.png)  
-*(Add your screenshot if you want)*
+
 
 ---
 
