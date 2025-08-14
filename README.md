@@ -21,7 +21,7 @@ Not a full project — just me experimenting and learning.
 
 ## Live Demo
 If you want to see it in action:  
-[**Click Here**][(https://your-github-username.github.io/frontend-playground-1/](https://web-app-ml.github.io/frontend-playground-1/))
+[**Click Here**][([https://your-github-username.github.io/frontend-playground-1/](https://web-app-ml.github.io/frontend-playground-1/)](https://web-app-ml.github.io/frontend-playground-1/))
 
 ---
 
